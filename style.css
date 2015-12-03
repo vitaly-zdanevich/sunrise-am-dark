@@ -1,0 +1,33 @@
+@-moz-document domain("calendar.sunrise.am") {
+a,
+.month,
+.month__day--reverse,
+.month__day,
+.navbar__wrapper,
+.navbar__wrapper:after,
+.navbar__item--controls__separator
+{
+	background: black !important;
+}
+
+a,
+.month__day,
+.month__row,
+.month__rows,
+.daynames,
+.navbar__wrapper,
+.navbar__item
+{
+	border: none !important;    
+}
+
+.occurrence__title {
+	color: lightblue;
+}
+
+a.btn.btn--small {
+	background: lightgreen !important;
+}
+
+
+}
