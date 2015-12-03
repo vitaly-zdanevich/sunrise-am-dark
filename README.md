@@ -1,2 +1,3 @@
-# sunrise-am-dark
-+ Google Calendar's events now not darkblue on blue
+![screenshot](/screenshot.png)
+
+https://userstyles.org/styles/121394/sunrise-am-dark
