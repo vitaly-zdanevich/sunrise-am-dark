@@ -30,4 +30,9 @@ a.btn.btn--small {
 }
 
 
+.dialog__content { /* event creating popup wider - good for long title  */
+	width: 44%;
+}
+
+
 }
